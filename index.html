@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="style.css" />
+
+  <title>Likes format</title>
+</head>
+<body>
+  <div class="content box">
+    <p class="mb-5">
+      <strong>⚠️ Nota:</strong>
+      <span>Si no hace la conversión al aumentar el valor desde el input, también puedes hacerlo presionando el botón.</span>
+    </p>
+    <p class="mb-20">
+      <strong>⚠️ Note:</strong>
+      <span>If the convertion does not work by incresing the value from the input, you can also do it by pressing the button.</span>
+    </p>
+
+    <input id="quantity" class="mb-20" type="number" min="0" max="999999999" onchange="convert()" /> 
+
+    <p id="errorMessage" class="text-center"></p>
+
+    <p id="realQuantity" class="text-center mb-5"></p>
+    <p id="formatQuantity" class="text-center"></p>
+
+    <button onclick="convert()" class="mt-20">Convertir / Convert</button>
+  </div>
+
+  <script src="format.js"></script>
+</body>
+</html>
