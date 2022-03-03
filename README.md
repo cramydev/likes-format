@@ -14,6 +14,8 @@ No solo puede usarse para likes, sino para cualquier tipo de conteo donde se le 
 
 Adicionalmente muestro como darle formato numérico a un número. Es decir, convertir el valor 1000 a 1,000, por ejemplo.
 
+Puedes probarlo a través de este enlace https://codesandbox.io/s/formatted-likes-number-rd57s
+
 *----- 🇺🇸 ENGLISH -----*
 
 This repository shows how can you convert a likes number into a similar format on how social networks do. Convertions would be:
@@ -29,3 +31,5 @@ Probably there is a better way to do this, but this one worked for me in a proje
 This is not only for likes, but for any kind of counting that you want to apply this format and not showing the complete number. 
 
 Additionally I show how convert a numeric value into a numeric format. For example, convert 1000 to 1,000.
+
+You can try this by pressing this url https://codesandbox.io/s/formatted-likes-number-rd57s
