@@ -1,6 +1,6 @@
 *----- 🇪🇸 ESPAÑOL -----*
 
-En este proyecto se muestra como se puede convertir un numero de likes en formato similar a como lo hacen las redes sociales. Las conversiones serían:
+En este repositorio se muestra como se puede convertir un numero de likes en formato similar a como lo hacen las redes sociales. Las conversiones serían:
 
 - 1000 -> 1K
 - 1200 -> 1.2K
@@ -16,7 +16,7 @@ Adicionalmente muestro como darle formato numérico a un número. Es decir, conv
 
 *----- 🇺🇸 ENGLISH -----*
 
-This project shows how can you convert a likes number into a similar format on how social networks do. Convertions would be:
+This repository shows how can you convert a likes number into a similar format on how social networks do. Convertions would be:
 
 - 1000 -> 1K
 - 1200 -> 1.2K
